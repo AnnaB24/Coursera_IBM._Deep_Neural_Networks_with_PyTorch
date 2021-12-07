@@ -1,6 +1,5 @@
 
-## 
-Week 2. Linear Regression
+## Week 2. Linear Regression
 
 ### Learning Objectives
 
